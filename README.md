@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there, I'm fakerieh! 👋
 
-<!--
-**fakerieh/fakerieh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+I'm passionate about software development and open source.  
+Here you'll find my projects, experiments, and contributions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- Programming languages:  
+  - Still mo
+- Frameworks & Tools:  
+  - Platform-tools
+
+## 📈 GitHub Stats
+![fakerieh's GitHub stats](https://github-readme-stats.vercel.app/api?username=fakerieh&show_icons=true&theme=default)
+
+## 🌱 Currently Learning
+- [Modding Android]
+
+## 📫 How to reach me
+- Email: [muh.g99u@gmail.com]
+
+## 💡 Fun Fact
+I love cats
+
+---
+
+Thanks for stopping by! Feel free to check out my repositories and reach out if you'd like to collaborate.
