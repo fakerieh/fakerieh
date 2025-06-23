@@ -8,7 +8,7 @@ Here you'll find my projects, experiments, and contributions.
 
 ## 🛠️ Skills
 - Programming languages:  
-  - Still mo
+  - Still no but i like to try something new 
 - Frameworks & Tools:  
   - Platform-tools
 
