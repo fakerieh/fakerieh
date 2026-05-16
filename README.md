@@ -20,6 +20,7 @@ Here you'll find my projects, experiments, and contributions.
 
 ## 📫 How to reach me
 - Email: [muh.g99u@gmail.com]
+- Telegram: @fakeripage and [click here for my channel](https://t.me/fakh_dump)
 
 ## 💡 Fun Fact
 I love cats
